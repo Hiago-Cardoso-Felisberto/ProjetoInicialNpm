@@ -1,0 +1,20 @@
+{
+  "name": "npmexer",
+  "version": "1.0.0",
+  "description": "Exercicios da aula 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "project"
+  ],
+  "author": "Hiago Cardoso Felisberto",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
